@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Yıldırım Mühendislik Danışmanlık Hizmetleri</title>
-    <link>https://ashwor11.github.io/yildirimmuhendislik/services/</link>
+    <link>http://localhost:1313/yildirimmuhendislik/services/</link>
     <description>Recent content in Services on Yıldırım Mühendislik Danışmanlık Hizmetleri</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 12:58:58 +0300</lastBuildDate>
-    <atom:link href="https://ashwor11.github.io/yildirimmuhendislik/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yildirimmuhendislik/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sondaj</title>
-      <link>https://ashwor11.github.io/yildirimmuhendislik/services/sondaj/</link>
+      <link>http://localhost:1313/yildirimmuhendislik/services/sondaj/</link>
       <pubDate>Wed, 26 Feb 2025 12:58:58 +0300</pubDate>
-      <guid>https://ashwor11.github.io/yildirimmuhendislik/services/sondaj/</guid>
+      <guid>http://localhost:1313/yildirimmuhendislik/services/sondaj/</guid>
       <description>&lt;p&gt;Sondaj hizmeti yapılır.&lt;/p&gt;</description>
     </item>
   </channel>
