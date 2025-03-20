@@ -1712,4 +1712,4 @@
 }@property --tw-ring-offset-shadow{syntax: "*";
   inherits: false;
   initial-value: 0 0 #0000;
-}@reference './app.css'
+}@reference './app.css';.btn-menu::before,.btn-menu::after{background-color:#000!important}.dark .btn-menu::before,.dark .btn-menu::after{background-color:#f5f5f5!important}.dark .nav-wrapper{background-color:#262625!important}@media(min-width:768px){:root{--w:calc(1100px + 32px * 2)}}@media(max-width:767px){:root{--w:calc(100% - 32px * 2)}}
